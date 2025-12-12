@@ -7,6 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1mrkgQCihyddr6uiq_KsOEctnfnJOvATm
 """
 
+'''https://drive.google.com/file/d/1d8-qpks6tyfbBq-5UQKreyPSxVWP8qA9/view'''
+
 !pip install accelerate transformers
 !pip install --upgrade langchain langchain-huggingface langchain-community
 !pip install langgraph
